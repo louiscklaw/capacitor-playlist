@@ -16,8 +16,7 @@ export const homeItems = [
   {
     title: 'Arctic Adventures',
     type: 'Blog',
-    text:
-      'Last month we took a trek to the Arctic Circle. The isolation was just what we needed after...',
+    text: 'Last month we took a trek to the Arctic Circle. The isolation was just what we needed after...',
     author: 'Max Lynch',
     authorAvatar: '/img/max.jpg',
     image: images[1],
@@ -50,12 +49,7 @@ export const lists = [
   {
     name: 'Hardware Store',
     id: 'hardware',
-    items: [
-      { name: 'Circular Saw' },
-      { name: 'Tack Cloth' },
-      { name: 'Drywall' },
-      { name: 'Router' },
-    ],
+    items: [{ name: 'Circular Saw' }, { name: 'Tack Cloth' }, { name: 'Drywall' }, { name: 'Router' }],
   },
   { name: 'Work', id: 'work', items: [{ name: 'TPS Report' }, { name: 'Set up email' }] },
   { name: 'Reminders', id: 'reminders' },
